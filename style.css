@@ -1,0 +1,103 @@
+
+body{
+  background-color:white;
+}
+
+div{
+  width:990px;
+  border:20px solid;
+  border-color:black;
+  height:700px;
+  border-top-left-radius:;
+  border-bottom-right-radius:;
+  background-color:darkblue;
+}
+.mm{
+  width:990px;
+  border:10px solid;
+  border-color:black;
+  height: 550px;
+  border-top-left-radius: none;
+  border-bottom-right-radius: none;
+  background-color:darkblue;
+}
+
+.op{
+  width:400px;
+  height:180px;
+   background-color: white; 
+  color:white;
+  }
+
+button{
+  
+}
+
+h5{
+  color:white;
+  
+  font-size:40px;
+  
+}
+
+.yy{
+  border:5px solid;
+  border-radius:none;
+  height: 100px;
+  width:100px;
+  border-color: red;
+}
+
+.nn{
+  height: 150px;
+  width:250px;
+  border:none;
+  background-color: black;
+  font-size:30px;
+  color:white;
+}
+
+h4{
+  color:red;
+  font-size:40px
+}
+
+tt{
+  color:black;
+  font-size:50px;
+}
+
+h3{
+  color:white;
+  font-size:50px;
+}
+
+p{
+  color:white;
+  font-size:30px;
+}
+
+u{
+  font-size: 80px;
+  color:darkblue;
+}
+
+h2{
+    color:black;
+    font-size:55px;
+}
+span{
+  color:white;
+}
+
+h6{
+  font-size:60px;
+}
+
+a{
+  font-size:60px;
+}
+
+hr{
+background-color:white;
+}
